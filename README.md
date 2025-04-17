@@ -6,6 +6,7 @@ This repository contains the design assets and prototype of "YourHome", a furnit
 ## 📁 Files Included
 
 - Exported screens (.png/.jpg)
+- Screenshot Previews
 - [Figma Link][(https://www.figma.com/file/YOUR_LINK_HERE)](https://www.figma.com/design/TrqGbNBBQ75126n1vLF6JX/Untitled?node-id=0-1&t=U6ngx6cSAV3CoZwV-1)
 
 ## 🔗 Project Description
